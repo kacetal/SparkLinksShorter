@@ -1,7 +1,7 @@
 # SparkLinksShorter
 Links Shorter with REST and SPARK web server.
 
-##API
+##API  
 get all links  
 **GET** http://localhost:4567/links
 
